@@ -3107,3 +3107,812 @@ Received Import Request.
 Start importing Assets/素材/Cat Sprite Sheet.png using Guid(f569fec73c5a9704085b9799f3bab713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b37b74d258731c4157c280da5b8251') in 0.103405 seconds 
   Import took 0.106729 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3722.139184 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png using Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ffef4cefb06872a7ed6d42eeda2ee99') in 0.016507 seconds 
+  Import took 0.020518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.514129 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png using Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09560f910c18239073235bd26bc4787c') in 0.009497 seconds 
+  Import took 0.012717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.751236 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png using Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7182b5d1f2c29ba98517f2aa339e59f4') in 0.010592 seconds 
+  Import took 0.013720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002538 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png using Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7182b5d1f2c29ba98517f2aa339e59f4') in 0.008838 seconds 
+  Import took 0.012360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.747004 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6331625e88bc4d7924b1be98361aeaf') in 0.009286 seconds 
+  Import took 0.012693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000779 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6331625e88bc4d7924b1be98361aeaf') in 0.008106 seconds 
+  Import took 0.011389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.630371 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Appear (44x30).png
+  artifactKey: Guid(0789f7c78455e7b42b663465affe8330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Appear (44x30).png using Guid(0789f7c78455e7b42b663465affe8330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c15609cb25901f3ef06124ec6e4673fa') in 0.010123 seconds 
+  Import took 0.013522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.752765 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png using Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d177a4a7d2b7ae78a9057e24fe4ef2') in 0.005593 seconds 
+  Import took 0.008842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.965982 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png using Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c641406912e45b8fe9965d4252fd7509') in 0.038232 seconds 
+  Import took 0.041405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.267899 seconds.
+  path: Assets/動畫/鬼待.anim
+  artifactKey: Guid(25e4d1f15e8751f4d9692bf781690dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼待.anim using Guid(25e4d1f15e8751f4d9692bf781690dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f204d9c9ca92ef146b8381b409108a63') in 0.003667 seconds 
+  Import took 0.006655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002740 seconds.
+  path: Assets/動畫/鬼待.anim
+  artifactKey: Guid(25e4d1f15e8751f4d9692bf781690dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼待.anim using Guid(25e4d1f15e8751f4d9692bf781690dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f204d9c9ca92ef146b8381b409108a63') in 0.001881 seconds 
+  Import took 0.005304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.797285 seconds.
+  path: Assets/動畫/Idle (44x30)_9.controller
+  artifactKey: Guid(07853be2c17e3244388c18d332e13fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/Idle (44x30)_9.controller using Guid(07853be2c17e3244388c18d332e13fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db60c49cd042044d83c79db1180138c') in 0.003894 seconds 
+  Import took 0.008076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/動畫/Idle (44x30)_9.controller
+  artifactKey: Guid(07853be2c17e3244388c18d332e13fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/Idle (44x30)_9.controller using Guid(07853be2c17e3244388c18d332e13fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db60c49cd042044d83c79db1180138c') in 0.001724 seconds 
+  Import took 0.004988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.653987 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png using Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822c8f0fab0ddf8d77e9e020de6a1181') in 0.005635 seconds 
+  Import took 0.008845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.877611 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png using Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36963290179baea5094415fb19fc8572') in 0.025506 seconds 
+  Import took 0.028820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.222643 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e6e6e0dc47d63b313bf2119f2c9263') in 0.005162 seconds 
+  Import took 0.008921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000963 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e6e6e0dc47d63b313bf2119f2c9263') in 0.004843 seconds 
+  Import took 0.008379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 233.925706 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06791263ad3ecc3b3d1d5e6aecc967b6') in 0.013573 seconds 
+  Import took 0.017683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.431643 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png
+  artifactKey: Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Idle (44x30).png using Guid(a8355314f89e9f24189b914299d909b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e0408fae36f401c8547e143d7a45ce') in 0.030342 seconds 
+  Import took 0.033472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.422830 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/鬼傷.anim
+  artifactKey: Guid(b13cd7ebdef95af45b99ea742d2ec90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/鬼傷.anim using Guid(b13cd7ebdef95af45b99ea742d2ec90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22ba247e3af15f64a46fef67bb06692') in 0.003185 seconds 
+  Import took 0.006709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.981804 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png
+  artifactKey: Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Hit (44x30).png using Guid(8a710356edddab64894a5f590fa9f184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16495d27f09305e9d2fa98953f3cb92a') in 0.021126 seconds 
+  Import took 0.025076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.298816 seconds.
+  path: Assets/動畫/標題.anim
+  artifactKey: Guid(fd9a6573e1e091f48b056f00c4fd3582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/標題.anim using Guid(fd9a6573e1e091f48b056f00c4fd3582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c821b080166f6b668f149d916d546def') in 0.002016 seconds 
+  Import took 0.005251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.804890 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png using Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cff9d8a4b8d038030da1a305e73470') in 0.007687 seconds 
+  Import took 0.010884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 336.041041 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png using Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e552e1d598a878667f1a8bd8620ba035') in 0.006333 seconds 
+  Import took 0.011015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000775 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png
+  artifactKey: Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Gost Particles (48x16).png using Guid(41668fcfde9f0f0479e325e2632e6979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e552e1d598a878667f1a8bd8620ba035') in 0.005304 seconds 
+  Import took 0.008714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.758277 seconds.
+  path: Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png
+  artifactKey: Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 2/Enemies/Ghost/Desappear (44x30).png using Guid(be223517d773f5a43bde8a68170ad241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67502664d85da139db4e968094dc5f0') in 0.016384 seconds 
+  Import took 0.019891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.968087 seconds.
+  path: Assets/動畫/Desappear (44x30)_0.controller
+  artifactKey: Guid(7f9a96dcdf14e914ba22aab431ce6c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/Desappear (44x30)_0.controller using Guid(7f9a96dcdf14e914ba22aab431ce6c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10571fdfb5a578b74d81ff438007cf5') in 0.002096 seconds 
+  Import took 0.006333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.619523 seconds.
+  path: Assets/動畫
+  artifactKey: Guid(c76f7a664a58b2f408978cc71bd570fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫 using Guid(c76f7a664a58b2f408978cc71bd570fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ca03f2c6c5d177850b37c464340cc4') in 0.001395 seconds 
+  Import took 0.004957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.883919 seconds.
+  path: Assets/動畫/設定畫面.controller
+  artifactKey: Guid(e5492db3a42300b45bda305c9b6eb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/設定畫面.controller using Guid(e5492db3a42300b45bda305c9b6eb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5e8ea3466e46ce18b337c0fe3a3ef0') in 0.003436 seconds 
+  Import took 0.007606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001036 seconds.
+  path: Assets/動畫/設定畫面.controller
+  artifactKey: Guid(e5492db3a42300b45bda305c9b6eb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/設定畫面.controller using Guid(e5492db3a42300b45bda305c9b6eb736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5e8ea3466e46ce18b337c0fe3a3ef0') in 0.002327 seconds 
+  Import took 0.005485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.905796 seconds.
+  path: Assets/動畫/鬼.anim
+  artifactKey: Guid(cf9e1629ac2f2714dbf1df6cbf1ae100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼.anim using Guid(cf9e1629ac2f2714dbf1df6cbf1ae100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3e86d5f240d03b0a569156e519ca6a') in 0.001883 seconds 
+  Import took 0.005038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.341530 seconds.
+  path: Assets/動畫/Idle (44x30)_0.prefab
+  artifactKey: Guid(41fb7d7719c70b244a41426b6c044599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/Idle (44x30)_0.prefab using Guid(41fb7d7719c70b244a41426b6c044599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c2b511f2123b97798f349f4bec3996') in 0.009810 seconds 
+  Import took 0.013434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.043144 seconds.
+  path: Assets/動畫/鬼傷.anim
+  artifactKey: Guid(b13cd7ebdef95af45b99ea742d2ec90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼傷.anim using Guid(b13cd7ebdef95af45b99ea742d2ec90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0122e0b8d0fbc4d156fd0f2e9e2cecbe') in 0.002260 seconds 
+  Import took 0.007379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.887759 seconds.
+  path: Assets/動畫/鬼.controller
+  artifactKey: Guid(f38da262133f4a64884746a0e57e791a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼.controller using Guid(f38da262133f4a64884746a0e57e791a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9728079e37f70a4954a26c15695dce0') in 0.001947 seconds 
+  Import took 0.006071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.061821 seconds.
+  path: Assets/動畫/設定畫面.anim
+  artifactKey: Guid(b90167978512490458cafb4f3c43845d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/設定畫面.anim using Guid(b90167978512490458cafb4f3c43845d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4357906af95b326a2ffb177071626184') in 0.001698 seconds 
+  Import took 0.004907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.507949 seconds.
+  path: Assets/動畫/Idle (44x30)_0.prefab
+  artifactKey: Guid(41fb7d7719c70b244a41426b6c044599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/Idle (44x30)_0.prefab using Guid(41fb7d7719c70b244a41426b6c044599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5569ac59dabbc265681ae1f2973264') in 0.007306 seconds 
+  Import took 0.010684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.203401 seconds.
+  path: Assets/動畫/鬼死.anim
+  artifactKey: Guid(7264e37dbc9444347996f12543885dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/動畫/鬼死.anim using Guid(7264e37dbc9444347996f12543885dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a497ac1a57c8f7a3a17712e817c35e') in 0.002152 seconds 
+  Import took 0.005911 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002243 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Domain Reload Profiling:
+	ReloadAssembly (922ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (761ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (272ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.5 MB.
+System memory in use after: 97.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2910.
+Total: 2.899800 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.097700 ms MarkObjects: 2.477500 ms  DeleteObjects: 0.062200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002075 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Domain Reload Profiling:
+	ReloadAssembly (903ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (753ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (255ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (216ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.5 MB.
+System memory in use after: 97.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2913.
+Total: 3.067200 ms (FindLiveObjects: 0.219500 ms CreateObjectMapping: 0.072300 ms MarkObjects: 2.729300 ms  DeleteObjects: 0.045200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002193 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.938 seconds
+Domain Reload Profiling:
+	ReloadAssembly (939ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (783ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (305ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (209ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.5 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2916.
+Total: 2.767000 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.451600 ms  DeleteObjects: 0.033400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002152 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Domain Reload Profiling:
+	ReloadAssembly (880ms)
+		BeginReloadAssembly (95ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (734ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (251ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (276ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (196ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2919.
+Total: 3.153000 ms (FindLiveObjects: 0.228400 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.815800 ms  DeleteObjects: 0.029100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002199 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Domain Reload Profiling:
+	ReloadAssembly (897ms)
+		BeginReloadAssembly (93ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (751ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (255ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (190ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2922.
+Total: 2.687100 ms (FindLiveObjects: 0.195000 ms CreateObjectMapping: 0.076800 ms MarkObjects: 2.366500 ms  DeleteObjects: 0.048100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.998 seconds
+Domain Reload Profiling:
+	ReloadAssembly (999ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (815ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (320ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (199ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 3.687700 ms (FindLiveObjects: 0.599500 ms CreateObjectMapping: 0.228500 ms MarkObjects: 2.815900 ms  DeleteObjects: 0.042300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002162 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Domain Reload Profiling:
+	ReloadAssembly (896ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (746ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2928.
+Total: 3.171000 ms (FindLiveObjects: 0.285700 ms CreateObjectMapping: 0.085100 ms MarkObjects: 2.782900 ms  DeleteObjects: 0.016100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002063 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Domain Reload Profiling:
+	ReloadAssembly (916ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (769ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (264ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (286ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2931.
+Total: 3.161700 ms (FindLiveObjects: 0.262700 ms CreateObjectMapping: 0.097300 ms MarkObjects: 2.783900 ms  DeleteObjects: 0.016800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002187 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Domain Reload Profiling:
+	ReloadAssembly (888ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (741ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (267ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (262ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (188ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.6 MB.
+System memory in use after: 97.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2934.
+Total: 2.760800 ms (FindLiveObjects: 0.216700 ms CreateObjectMapping: 0.092300 ms MarkObjects: 2.421400 ms  DeleteObjects: 0.029400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
