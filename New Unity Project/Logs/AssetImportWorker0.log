@@ -469,3 +469,4 @@ Received Import Request.
 Start importing Assets/素材/NewAudioMixer.mixer using Guid(df733fc5d212bbd4e9780a6898f712f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8830f27b730198c9b20e67fa3cec086f') in 0.002882 seconds 
   Import took 0.006909 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
